@@ -1,4 +1,4 @@
-# Version 2.3.0
+# Version 3.0.0
 
 ![image](https://github.com/user-attachments/assets/052ec9eb-585b-4d03-9674-2360640b604e)
 
