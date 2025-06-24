@@ -1,4 +1,4 @@
-# Version 3.0.0
+# Version 3.1.0
 ![ArtProject](https://github.com/user-attachments/assets/6ebeda55-63dd-4832-a639-5e55924e07d8)
 
 I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it myself. It's very basic at that moment but can be useful.
@@ -7,6 +7,9 @@ I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it 
 
 - Mirrorable poses
 - Advanced Soft Feet IK and Hands IK
+- UI Control of IK/FK
+![image](https://github.com/user-attachments/assets/ebaf3b9d-f7ee-4b03-87a0-8794794c83f1)
+
 - Fingers Rig
 - Auto hip and chest balance
 - Orientation Controllers
