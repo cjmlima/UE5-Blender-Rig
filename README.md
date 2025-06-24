@@ -36,7 +36,8 @@ Select only the armature in blender, then export it to FBX format
 ![image](https://github.com/user-attachments/assets/20d1c5e1-1824-43a6-86a0-a1ad98b4aca5)
 - Animation
 
-![image](https://github.com/user-attachments/assets/bbd21777-609b-4554-820a-e36f42eaae03)
+![image](https://github.com/user-attachments/assets/54ed6b98-63fb-4164-959e-715d777bb1d5)
+
 
 Just import it to Unreal Manny Skeleton and animation should be working perfectly.
 - Ready to export properly to UE5
