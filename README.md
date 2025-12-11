@@ -1,4 +1,4 @@
-# Version 3.1.1
+# Version 3.1.2
 ![ArtProject](https://github.com/user-attachments/assets/6ebeda55-63dd-4832-a639-5e55924e07d8)
 
 I haven't found any Blender rig for UE5 Manny Skeleton, so I decided to make it myself. It's very basic at that moment but can be useful.
